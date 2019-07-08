@@ -1,2 +1,2 @@
-# binary
-SCOS Binary
+# SCOS Binaries
+Please check **release** section
